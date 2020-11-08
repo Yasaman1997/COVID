@@ -1,11 +1,5 @@
 ![](https://github.com/dimitreOliveira/COVID-19-Vaccine-Degradation-Prediction/blob/master/Assets/banner.png?raw=true)
 
-### Published Kaggle kernels:
-
-### What you will find
-- Documentation [[link]](https://github.com/dimitreOliveira/COVID-19-Vaccine-Degradation-Prediction/tree/master/Documentation)
-- Models [[link]](https://github.com/dimitreOliveira/COVID-19-Vaccine-Degradation-Prediction/tree/master/Model%20backlog)
-
 ### OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
 #### Urgent need to bring the COVID-19 vaccine to mass production
 
